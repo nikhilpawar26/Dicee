@@ -1,0 +1,98 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #E5890A;
+}
+
+h1 {
+  margin: 30px;
+  font-family: Arial;
+  font-size: 5rem;
+  color: #483434;
+}
+
+p {
+  font-size: 2rem;
+  color: #7E370C;
+  font-family: Arial;
+}
+
+img {
+  width: 70%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #fff;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.btn1{
+  text-align: center;
+  padding: 16px 25px 16px 25px;
+
+}
+.margin{
+  margin-top: 2rem;
+}
+.BUTTON_EXL {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 21px;
+   font-weight: 200;
+   padding: 20px;
+   background-color: #EFEFEF;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_EXL:hover {
+   background: #97989F;
+   border: solid #000000 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.BUTTON_lg {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: Arial;
+   font-size: 21px;
+   font-weight: 200;
+   padding: 20px;
+   background-color: #95ED9A;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_lg:hover {
+   background: #97989F;
+   border: solid #000000 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
